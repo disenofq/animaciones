@@ -1,0 +1,38 @@
+header{
+    background: black;
+    color: blanchedalmond;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 4px #000 solid;
+    margin-bottom: 10px;
+}
+
+#contenedor{
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+}
+#contenedor2{
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+}
+
+
+#caja{
+    background: #333;
+    color: blanchedalmond;
+    height: 100px;
+    width: 500px;
+    padding: 40px;
+    text-align: center;
+}
+
+#caja2{
+    background: rgb(253, 4, 4);
+    color: blanchedalmond;
+    height: 100px;
+    width: 500px;
+    padding: 40px;
+    text-align: center;
+}
